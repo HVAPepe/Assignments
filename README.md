@@ -1,6 +1,6 @@
-# Project Title
+# HVA Assignments and projects
 
-One Paragraph of project description goes here
+This is the official GitHub for the HVA Assignments
 
 ## Getting Started
 
@@ -40,15 +40,14 @@ Author: Jasper
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://www.java.com) - Java delopment kit
+* [Microsoft](http://www.microsoft.com) - Visual Studio C++
+* [Apachen](https://www.apache.org/) - Apache
+* [Java](https://www.java.com) - Java development kit
+* [Netbeans](https://www.Netbeans.org) - Netbeans
 
 ## Authors
 
-* **Jasper** - *Initial work* - [PurpleBooth](https://github.com/HVAPepe)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+* **Jasper** - *Initial work* - [HVAPepe](https://github.com/HVAPepe)
 
 ## License
 
