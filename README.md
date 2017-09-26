@@ -1,4 +1,4 @@
-# HVA Assignments and projects
+# HVA Assignments and Projects
 
 This is the official GitHub for the HVA Assignments
 
